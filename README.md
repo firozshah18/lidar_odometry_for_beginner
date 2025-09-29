@@ -1,4 +1,4 @@
-# LiDAR Odometry from Scratch
+# LiDAR Odometry for Beginner
 
 ![LiDAR Odometry Results](odom.png)
 
