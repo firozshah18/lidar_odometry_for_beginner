@@ -1,5 +1,7 @@
 # LiDAR Odometry for Beginner
 
+"This guide aims to be a small lantern on your learning journey, lowering the barrier to entry into the fascinating world of LiDAR Odometry."
+
 ![LiDAR Odometry Results](odom.png)
 
 A hands-on tutorial for learning LiDAR odometry implementation from the ground up using Python.
@@ -111,7 +113,3 @@ MIT License - See LICENSE file for details.
 ## Acknowledgments
 
 This tutorial was inspired by the need to make LiDAR odometry more accessible to beginners. Special thanks to the open-source SLAM community for their foundational work.
-
----
-
-*"This guide aims to be a small lantern on your learning journey, lowering the barrier to entry into the fascinating world of LiDAR Odometry."*
