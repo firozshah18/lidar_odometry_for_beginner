@@ -6,10 +6,10 @@ A hands-on tutorial for learning LiDAR odometry implementation from the ground u
 
 ## 📚 Complete Tutorial Guide
 
-This repository includes a comprehensive PDF guide that explains the theory and implementation details:
+This repository includes a comprehensive PDF guide that explains the implementation details:
 - **📖 [Lidar_odometry_for_beginner.pdf](Lidar_odometry_for_beginner.pdf)** - Read this alongside the code for complete understanding
 
-The PDF covers mathematical foundations, algorithm explanations, and implementation strategies that complement the practical code examples in this repository.
+The PDF covers mathematical foundations (not deeply), algorithm explanations, and implementation strategies that complement the practical code examples in this repository.
 
 ## Overview
 
