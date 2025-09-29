@@ -1,6 +1,6 @@
 # LiDAR Odometry for Beginner
 
-"This guide aims to be a small lantern on your learning journey, lowering the barrier to entry into the fascinating world of LiDAR Odometry."
+This guide aims to be a small lantern on your learning journey, lowering the barrier to entry into the fascinating world of LiDAR Odometry.
 
 ![LiDAR Odometry Results](odom.png)
 
